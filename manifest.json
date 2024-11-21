@@ -1,0 +1,16 @@
+{
+    "name":"Get Tabs URL",
+    "description":"Get all the url of all open tabs across various browser on your system and send those to yourself on whatsapp",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html"
+        
+    },
+    "permissions":[
+        "tabs"
+    ]
+   
+    
+    
+}
