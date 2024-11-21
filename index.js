@@ -19,7 +19,7 @@ function getAllOpenWindows(winData) {
     // }
   }
   console.log(tabs);
-  const r="hiiii"
+  const r="hiii"
   const data=document.querySelector("#yes")
 //   const data="hi"
   data.innerHTML=tabs.length+" "+tabs[0]
